@@ -1,0 +1,12 @@
+D:\C#\bai1\monC#\monC#\bin\Debug\monC#.exe.config
+D:\C#\bai1\monC#\monC#\bin\Debug\monC#.exe
+D:\C#\bai1\monC#\monC#\bin\Debug\monC#.pdb
+D:\C#\bai1\monC#\monC#\obj\Debug\monC#.csproj.AssemblyReference.cache
+D:\C#\bai1\monC#\monC#\obj\Debug\monC_.Form1.resources
+D:\C#\bai1\monC#\monC#\obj\Debug\monC_.Properties.Resources.resources
+D:\C#\bai1\monC#\monC#\obj\Debug\monC#.csproj.GenerateResource.cache
+D:\C#\bai1\monC#\monC#\obj\Debug\monC#.csproj.CoreCompileInputs.cache
+D:\C#\bai1\monC#\monC#\obj\Debug\monC#.exe
+D:\C#\bai1\monC#\monC#\obj\Debug\monC#.pdb
+D:\C#\bai1\monC#\monC#\obj\Debug\monC_.gameduaxe.resources
+D:\C#\bai1\monC#\monC#\obj\Debug\monC_.dangnhap.resources

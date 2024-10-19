@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\bai1\\monC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|D:\\C#\\bai1\\monC#\\monc#\\gameduaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\gameduaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|d:\\c#\\bai1\\monc#\\monc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|d:\\c#\\bai1\\monc#\\monc#\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|d:\\c#\\bai1\\monc#\\monc#\\gameduaxe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\gameduaxe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|D:\\C#\\bai1\\monC#\\monc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|D:\\C#\\bai1\\monC#\\monc#\\gameduaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\gameduaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\bai1\\monC#\\monC#\\Form1.cs",
+              "RelativeDocumentMoniker": "monC#\\Form1.cs",
+              "ToolTip": "D:\\C#\\bai1\\monC#\\monC#\\Form1.cs",
+              "RelativeToolTip": "monC#\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:57:13.965Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gameduaxe.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\bai1\\monC#\\monC#\\gameduaxe.Designer.cs",
+              "RelativeDocumentMoniker": "monC#\\gameduaxe.Designer.cs",
+              "ToolTip": "D:\\C#\\bai1\\monC#\\monC#\\gameduaxe.Designer.cs",
+              "RelativeToolTip": "monC#\\gameduaxe.Designer.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAADwv90AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:40:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\bai1\\monC#\\monC#\\dangnhap.cs",
+              "RelativeDocumentMoniker": "monC#\\dangnhap.cs",
+              "ToolTip": "D:\\C#\\bai1\\monC#\\monC#\\dangnhap.cs [Design]",
+              "RelativeToolTip": "monC#\\dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:36:02.393Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\bai1\\monC#\\monC#\\Form1.cs",
+              "RelativeDocumentMoniker": "monC#\\Form1.cs",
+              "ToolTip": "D:\\C#\\bai1\\monC#\\monC#\\Form1.cs [Design]",
+              "RelativeToolTip": "monC#\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:28:07.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gameduaxe.cs",
+              "DocumentMoniker": "D:\\C#\\bai1\\monC#\\monC#\\gameduaxe.cs",
+              "RelativeDocumentMoniker": "monC#\\gameduaxe.cs",
+              "ToolTip": "D:\\C#\\bai1\\monC#\\monC#\\gameduaxe.cs",
+              "RelativeToolTip": "monC#\\gameduaxe.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAwwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:02:13.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gameduaxe.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\bai1\\monC#\\monC#\\gameduaxe.cs",
+              "RelativeDocumentMoniker": "monC#\\gameduaxe.cs",
+              "ToolTip": "D:\\C#\\bai1\\monC#\\monC#\\gameduaxe.cs [Design]",
+              "RelativeToolTip": "monC#\\gameduaxe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:57:02.865Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
