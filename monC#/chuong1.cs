@@ -146,23 +146,13 @@ namespace monC_
                 timer.Stop(); // Dừng bộ đếm thời gian
                 nhac.Ctlcontrols.stop(); // Dừng nhạc khi có va chạm
 
-                // Hiển thị thông báo thua và hỏi người chơi có muốn chơi lại không
-                DialogResult result = MessageBox.Show("Bạn đã thua. Chơi lại?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+                // Hiển thị thông báo thua và thoát trò chơi
+                MessageBox.Show("Bạn đã thua.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                if (result == DialogResult.Yes)
-                {
-                    Application.Restart(); // Khởi động lại trò chơi
-                    timer.Stop();
-                    nhac.Ctlcontrols.stop();
-                }
-                else
-                {
-                    Application.Exit(); // Thoát trò chơi
-                    timer.Stop();
-                    nhac.Ctlcontrols.stop();
-                }
+                Application.Exit(); // Thoát trò chơi
             }
         }
+
 
         private void OnKeyDown(object sender, KeyEventArgs e)
         {

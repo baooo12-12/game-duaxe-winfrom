@@ -167,7 +167,7 @@ namespace monC_
             diem.Text = score.ToString(); // Cập nhật điểm số
 
             // Kiểm tra chiến thắng
-            if (score == 10
+            if (score == 20
                 
                 && !hasShownVictoryMessage)
             {

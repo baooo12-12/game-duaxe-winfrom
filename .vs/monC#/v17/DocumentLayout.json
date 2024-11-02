@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\C#\\bai1\\monC#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|d:\\c#\\bai1\\monc#\\monc#\\chuong1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\chuong1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|D:\\C#\\bai1\\monC#\\monc#\\gameduaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\gameduaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|D:\\C#\\bai1\\monC#\\monc#\\gameduaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\gameduaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|d:\\c#\\bai1\\monc#\\monc#\\gameduaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\gameduaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|D:\\C#\\bai1\\monC#\\monc#\\chuong1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\chuong1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|d:\\c#\\bai1\\monc#\\monc#\\chuong1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|solutionrelative:monc#\\chuong1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EBDD3AC-6BBA-4671-85BC-A0F475F65778}|monC#\\monC#.csproj|D:\\C#\\bai1\\monC#\\monc#\\chuong1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "chuong1.cs",
               "DocumentMoniker": "D:\\C#\\bai1\\monC#\\monC#\\chuong1.cs",
               "RelativeDocumentMoniker": "monC#\\chuong1.cs",
               "ToolTip": "D:\\C#\\bai1\\monC#\\monC#\\chuong1.cs",
               "RelativeToolTip": "monC#\\chuong1.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAswHsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T13:10:53.678Z",
               "EditorCaption": ""
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "chuong1.cs [Design]",
               "DocumentMoniker": "D:\\C#\\bai1\\monC#\\monC#\\chuong1.cs",
               "RelativeDocumentMoniker": "monC#\\chuong1.cs",
@@ -94,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "gameduaxe.cs",
               "DocumentMoniker": "D:\\C#\\bai1\\monC#\\monC#\\gameduaxe.cs",
               "RelativeDocumentMoniker": "monC#\\gameduaxe.cs",
               "ToolTip": "D:\\C#\\bai1\\monC#\\monC#\\gameduaxe.cs",
               "RelativeToolTip": "monC#\\gameduaxe.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAwwLYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAEwKkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T05:34:03.302Z",
               "EditorCaption": ""
@@ -115,8 +115,7 @@
               "RelativeToolTip": "monC#\\chuong1.Designer.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAAAJUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T13:57:04.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T13:57:04.769Z"
             }
           ]
         }
