@@ -9,4 +9,10 @@ D:\C#\bai1\monC#\monC#\obj\Debug\monC#.csproj.CoreCompileInputs.cache
 D:\C#\bai1\monC#\monC#\obj\Debug\monC#.exe
 D:\C#\bai1\monC#\monC#\obj\Debug\monC#.pdb
 D:\C#\bai1\monC#\monC#\obj\Debug\monC_.gameduaxe.resources
-D:\C#\bai1\monC#\monC#\obj\Debug\monC_.dangnhap.resources
+D:\C#\bai1\monC#\monC#\obj\Debug\Interop.WMPLib.dll
+D:\C#\bai1\monC#\monC#\obj\Debug\monC#.csproj.ResolveComReference.cache
+D:\C#\bai1\monC#\monC#\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\bai1\monC#\monC#\bin\Debug\Interop.WMPLib.dll
+D:\C#\bai1\monC#\monC#\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\bai1\monC#\monC#\obj\Debug\monC_.chuongtong.resources
+D:\C#\bai1\monC#\monC#\obj\Debug\monC_.chuong1.resources

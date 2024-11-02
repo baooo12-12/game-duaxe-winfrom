@@ -46,6 +46,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.diem = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.nhac = new AxWMPLib.AxWindowsMediaPlayer();
             ((System.ComponentModel.ISupportInitialize)(this.vac1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.vac2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.vac3)).BeginInit();
@@ -59,6 +60,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.xe3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.xe4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nhac)).BeginInit();
             this.SuspendLayout();
             // 
             // vac1
@@ -138,6 +140,7 @@
             this.xe.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.xe.TabIndex = 7;
             this.xe.TabStop = false;
+            this.xe.Click += new System.EventHandler(this.xe_Click);
             // 
             // xe1
             // 
@@ -205,12 +208,22 @@
             this.label2.TabIndex = 15;
             this.label2.Text = "Điểm";
             // 
+            // nhac
+            // 
+            this.nhac.Enabled = true;
+            this.nhac.Location = new System.Drawing.Point(0, 162);
+            this.nhac.Name = "nhac";
+            this.nhac.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("nhac.OcxState")));
+            this.nhac.Size = new System.Drawing.Size(75, 23);
+            this.nhac.TabIndex = 17;
+            // 
             // gameduaxe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.ClientSize = new System.Drawing.Size(854, 722);
+            this.ClientSize = new System.Drawing.Size(848, 722);
+            this.Controls.Add(this.nhac);
             this.Controls.Add(this.diem);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBox2);
@@ -228,6 +241,7 @@
             this.Controls.Add(this.vac1);
             this.Name = "gameduaxe";
             this.Text = "gameduaxe";
+            this.Load += new System.EventHandler(this.gameduaxe_Load);
             ((System.ComponentModel.ISupportInitialize)(this.vac1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.vac2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.vac3)).EndInit();
@@ -241,6 +255,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.xe3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.xe4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nhac)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -264,5 +279,6 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.TextBox diem;
         private System.Windows.Forms.Label label2;
+        private AxWMPLib.AxWindowsMediaPlayer nhac;
     }
 }

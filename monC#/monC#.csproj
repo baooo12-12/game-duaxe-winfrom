@@ -46,17 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="dangnhap.cs">
+    <Compile Include="chuongtong.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="dangnhap.Designer.cs">
-      <DependentUpon>dangnhap.cs</DependentUpon>
+    <Compile Include="chuongtong.Designer.cs">
+      <DependentUpon>chuongtong.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chuong1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chuong1.Designer.cs">
+      <DependentUpon>chuong1.cs</DependentUpon>
     </Compile>
     <Compile Include="gameduaxe.cs">
       <SubType>Form</SubType>
@@ -66,8 +72,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="dangnhap.resx">
-      <DependentUpon>dangnhap.cs</DependentUpon>
+    <EmbeddedResource Include="chuong1.resx">
+      <DependentUpon>chuong1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chuongtong.resx">
+      <DependentUpon>chuongtong.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -100,6 +109,31 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Remove-bg.ai_1729321666920.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\may1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\đá %282%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

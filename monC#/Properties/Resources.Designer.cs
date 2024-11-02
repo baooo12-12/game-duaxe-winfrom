@@ -63,6 +63,26 @@ namespace monC_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap đá__2_ {
+            get {
+                object obj = ResourceManager.GetObject("đá (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap may1 {
+            get {
+                object obj = ResourceManager.GetObject("may1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Remove_bg_ai_1729321666920 {
             get {
                 object obj = ResourceManager.GetObject("Remove-bg.ai_1729321666920", resourceCulture);
